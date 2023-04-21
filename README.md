@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Gavali</h1>
-<h3 align="center">ReactJS Developer</h3>
+<h3 align="center">React JS Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?size=626&ext=jpg">
 <h3>Currently I am learning MERN STACK Development and DSA </h3>
 <h3>I'm Looking to collaborate on projects </h3>
-<h3>✉️Contact : adityagavali18@gmail.com </h3>
+<h3>✉️ Contact : adityagavali18@gmail.com </h3>
  
 
 <h3 align="left">Connect with me:</h3>
