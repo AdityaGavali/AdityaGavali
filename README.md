@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Gavali</h1>
 <h3 align="center">ReactJS Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://pixabay.com/illustrations/developer-programmer-technology-3461405/">
-- ✉️Contact **adityagavali18@gmail.com**
+Currently I am learning MERN STACK Development and DSA 
+I'm Looking to collaborate on projects
+✉️Contact : adityagavali18@gmail.com
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
