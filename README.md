@@ -12,7 +12,7 @@ Check out my repositories to get to know more about my projects.
 </code>
 <div/>
 
-## 🌐 Socials:
+ Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityagavali18) 
 
 
