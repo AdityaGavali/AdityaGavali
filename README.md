@@ -8,13 +8,12 @@ Check out my repositories to get to know more about my projects.
 <h4 align="center">Tech Stack</h4>
 <br./>
 <div align="center">
-<code><img src="https://skillicons.dev/icons?i=html,css,react,next,c++,c,java,python,mysql,mongodb,nodejs&perline=7">
+<code><img src="https://skillicons.dev/icons?i=html,css,react,next,cpp,c,java,python,mysql,mongodb,nodejs&perline=7">
 </code>
 <div/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityagavali18) 
-[![Leetcode](https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512)](https://leetcode.com/adityagavali/)
 
 
 
