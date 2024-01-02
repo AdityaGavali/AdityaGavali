@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Gavali</h1>
-<h3 align="center">Web Developer, DevOps Enthusiast</h3>
+<h3 align="center">Full Stack Developer, Avid Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?size=626&ext=jpg">
 💫 About Me:<br>
  I am a final year IT undergraduate student at PCCOE Pune.<br>
