@@ -8,7 +8,7 @@ Check out my repositories to get to know more about my projects.
 <h4 align="center">Tech Stack</h4>
 <br./>
 <div align="center">
-<code><img src="https://skillicons.dev/icons?i=html,css,react,next,nodejs,express,cpp,c,java,mysql,mongodb,nodejs&perline=7">
+<code><img src="https://skillicons.dev/icons?i=html,css,react,next,nodejs,express,mongodb,cpp,c,java,MySQL,github&perline=7">
 </code>
 <div/>
 
